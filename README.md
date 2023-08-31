@@ -14,3 +14,8 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
 Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
